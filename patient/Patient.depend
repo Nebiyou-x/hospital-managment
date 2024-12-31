@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1705229480 source:c:\users\weldu\documents\advanced programming assignment\patient\source.cpp
+	"Patient.h"
+	<string>
+
+1705229476 c:\users\weldu\documents\advanced programming assignment\patient\patient.h
+	<string>
+
